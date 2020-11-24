@@ -6,7 +6,7 @@ The application is open to schools to enable them to reduce paper copies within 
 
 No information is stored within the app and all is retrieved from the external server (details of which can be found in my privacy policy). 
 
-If you would like to discuss and the benefits for your school with this application please send an email to checkmeapps@gmail.com
+If you would like to discuss how this would benefit your school please send an email to checkmeapps@gmail.com
 
 Any queries or suggestions i would be happy to hear them. 
 
